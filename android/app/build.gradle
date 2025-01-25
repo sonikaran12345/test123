@@ -53,7 +53,7 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("C:/Users/sk199/Downloads/untitled/android/app/aimagix.jks")
+            storeFile file("android/app/aimagix.jks")
             storePassword "aimagix"   // Replace with your keystore password
             keyAlias "mykey"          // Use the correct alias
             keyPassword "aimagix"     // Replace with your key password

@@ -61,6 +61,9 @@ android {
     }
 
     buildTypes {
+        debug {
+            // Add any specific configuration for debugging, if necessary
+        }
         release {
             signingConfig signingConfigs.release
             minifyEnabled false // Optional: For optimizing your APK size

@@ -53,7 +53,7 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("android/app/aimagix.jks")
+            storeFile file("assets/aimagix.jks")
             storePassword "aimagix"   // Replace with your keystore password
             keyAlias "mykey"          // Use the correct alias
             keyPassword "aimagix"     // Replace with your key password
@@ -64,11 +64,11 @@ android {
         debug {
             // Add any specific configuration for debugging, if necessary
         }
-        release {
-            signingConfig signingConfigs.release
-            minifyEnabled false // Optional: For optimizing your APK size
-            shrinkResources false // Optional: Remove unused resources
-        }
+//        release {
+//            signingConfig signingConfigs.release
+//            minifyEnabled false // Optional: For optimizing your APK size
+//            shrinkResources false // Optional: Remove unused resources
+//        }
     }
 }
 

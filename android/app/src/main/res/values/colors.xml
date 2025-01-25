@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="native_ad_tag_text">#000000</color>
+    <color name="native_text_color_title">#FFFFFF</color>
+    <color name="native_text_color_body">#828282</color>
+    <color name="native_button_color_startColor">#FF5565</color>
+    <color name="native_button_color_endColor">#F949F2</color>
+    <color name="native_button_text_color">#FFFFFF</color>
+    <color name="native_ad_tag_bg_startColor">#FFFFFF</color>
+    <color name="native_ad_tag_bg_endColor">#FFFFFF</color>
+    <color name="native_ad_bg_Color">#181818</color>
+    <color name="native_ad_star_Color">#FFC107</color>
+    <color name="transpenrt_color">#00FFFFFF</color>
+</resources>

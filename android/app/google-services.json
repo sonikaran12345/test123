@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450087150637",
+    "project_id": "ai-logo-generatorlogo-creator",
+    "storage_bucket": "ai-logo-generatorlogo-creator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450087150637:android:c210c7884fb1cabb58c4a4",
+        "android_client_info": {
+          "package_name": "com.ailogo.logomaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5ByzRZEbt5uazVvS5i1EZa_U1CDn8Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
